@@ -9,6 +9,9 @@
   },
   "author": "yuvanshu",
   "license": "ISC",
+  "engines" : {
+    "node": ">=16.9"
+  },
   "dependencies": {
     "nodemon": "^2.0.22",
     "socket.io": "^4.4.1"
